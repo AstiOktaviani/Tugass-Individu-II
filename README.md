@@ -1,2 +1,2 @@
-# Tugass-Individu-II
-Pemrograman Python
+# Tugass-Individu-II/ Pemrograman Python
+
